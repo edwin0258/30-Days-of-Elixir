@@ -1,4 +1,5 @@
-IO.puts "Hello"
-greet = fn -> IO.puts "Hello" end
+#Day 1 - Hello Elixir
+
+greet = fn -> IO.puts "Hello World!" end
 
 greet.()
